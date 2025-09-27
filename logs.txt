@@ -1,0 +1,117 @@
+[2025-09-26T22:39:49.674076] Erreur upload image : Invalid URL '': No scheme supplied. Perhaps you meant https://?
+[2025-09-26T22:40:23.006784] Erreur citation 2 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(1)
+
+[2025-09-26T22:40:53.026785] Erreur citation 3 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(2)
+
+[2025-09-26T22:41:23.054738] Erreur citation 4 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(3)
+
+[2025-09-26T22:41:53.077690] Erreur citation 5 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(4)
+
+[2025-09-26T22:42:23.097010] Erreur citation 6 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(5)
+
+[2025-09-26T22:42:53.134406] Erreur citation 7 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(6)
+
+[2025-09-26T22:43:23.149406] Erreur citation 8 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(7)
+
+[2025-09-26T22:43:53.168911] Erreur citation 9 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(8)
+
+[2025-09-26T22:44:23.185106] Erreur citation 10 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(9)
+
+[2025-09-26T22:44:53.248778] Erreur citation 11 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(10)
+
+[2025-09-26T22:45:23.292993] Erreur citation 12 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(11)
+
+[2025-09-26T22:45:53.309150] Erreur citation 13 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(12)
+
+[2025-09-26T22:46:23.327809] Erreur citation 14 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(13)
+
+[2025-09-26T22:46:53.348247] Erreur citation 15 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(14)
+
+[2025-09-26T22:47:23.354262] Erreur citation 16 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(15)
+
+[2025-09-26T22:47:53.366223] Erreur citation 17 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(16)
+
+[2025-09-26T22:48:23.377735] Erreur citation 18 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(17)
+
+[2025-09-26T22:48:53.401080] Erreur citation 19 : Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator(".b-qt").nth(18)
+
+[2025-09-26T22:49:15.306018] Erreur citation 20 : Locator.inner_text: Target page, context or browser has been closed
+Call log:
+  - waiting for locator(".b-qt").nth(19)
+
+[2025-09-26T22:49:15.319357] Erreur citation 21 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.349191] Erreur citation 22 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.361870] Erreur citation 23 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.388508] Erreur citation 24 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.402945] Erreur citation 25 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.417869] Erreur citation 26 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.432919] Erreur citation 27 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.438179] Erreur citation 28 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.452531] Erreur citation 29 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.465330] Erreur citation 30 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.475796] Erreur citation 31 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.483574] Erreur citation 32 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.490577] Erreur citation 33 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.498653] Erreur citation 34 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.511766] Erreur citation 35 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.516361] Erreur citation 36 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.521664] Erreur citation 37 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.533484] Erreur citation 38 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.537756] Erreur citation 39 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.546631] Erreur citation 40 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.550427] Erreur citation 41 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.552327] Erreur citation 42 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.566196] Erreur citation 43 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.572032] Erreur citation 44 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.580389] Erreur citation 45 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.586566] Erreur citation 46 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.599246] Erreur citation 47 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.604895] Erreur citation 48 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.613065] Erreur citation 49 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.617758] Erreur citation 50 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.626892] Erreur citation 51 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.631938] Erreur citation 52 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.634653] Erreur citation 53 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.651302] Erreur citation 54 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.656205] Erreur citation 55 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.665522] Erreur citation 56 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.671453] Erreur citation 57 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.677128] Erreur citation 58 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.684945] Erreur citation 59 : Locator.inner_text: Target page, context or browser has been closed
+[2025-09-26T22:49:15.689102] Erreur citation 60 : Locator.inner_text: Target page, context or browser has been closed
